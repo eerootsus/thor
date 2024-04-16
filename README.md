@@ -5,7 +5,20 @@ The aim of this project to collect and document information about Zeblaze Thor U
 
 ## Initial findings
 - SoC used is [Unisoc 8541E](https://www.unisoc.com/en_us/home/con545-8541E-1) (also known as Spreadtrum SC8541E)
-- Provided charger cable includes data lines and connects via USB as Spreadtrum Phone `idVendor=1782, idProduct=4011, bcdDevice= 4.04` 
+- Connects via USB as Spreadtrum Phone `idVendor=1782, idProduct=4011, bcdDevice= 4.04` 
 - Possible way to get `adb` [via XDA forums](https://xdaforums.com/t/generic-sl8541e-sc8541e-information-about-generic-chinese-smartwatches-with-the-spreadtrum-unisoc-soc.4654255/post-89358195) (have not tested yet myself)
+
+## What I like about the device
+- Provided charger cable includes data lines
+- Screen looks rather good and touch is quite responsive, even full keyboard is usable
+
+## What I do not like
+- 4G reception is poor
+- Band is a bit stiff and sometimes irritates the skin, but waiting for some Aliexpress options
+
+## What I would like to know
+- Battery performance - seems fine, but time will tell
+- Does it have bloatware? And security issues?
+  
 
 Stay tuned!
