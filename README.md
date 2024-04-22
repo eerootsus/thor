@@ -3,6 +3,8 @@
 ## Abstract
 The aim of this project to collect and document information about Zeblaze Thor Ultra 4G smartwatch. Getting `adb` access, backing up the ROM, maybe even custom ROMs or custom apps.
 
+Overall my aim is for a smartwatch to fully replace my phone and provide the bare essentials I need.
+
 ## Initial findings
 - SoC used is [Unisoc 8541E](https://www.unisoc.com/en_us/home/con545-8541E-1) (also known as Spreadtrum SC8541E)
 - Connects via USB as Spreadtrum Phone `idVendor=1782, idProduct=4011, bcdDevice= 4.04` 
