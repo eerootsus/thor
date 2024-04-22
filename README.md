@@ -6,7 +6,8 @@ The aim of this project to collect and document information about Zeblaze Thor U
 Overall my aim is for a smartwatch to fully replace my phone and provide the bare essentials I need.
 
 ## Initial findings
-- SoC used is [Unisoc 8541E](https://www.unisoc.com/en_us/home/con545-8541E-1) (also known as Spreadtrum SC8541E)
+- SoC from listing should be [Unisoc 8541E](https://www.unisoc.com/en_us/home/con545-8541E-1) (also known as Spreadtrum SC8541E)
+- Hardware info reports the SoC to be [Spreadtrum SC9832e](https://www.unisoc.com/en_us/home/TZNSJ-9832E-8)
 - Connects via USB as Spreadtrum Phone `idVendor=1782, idProduct=4011, bcdDevice= 4.04` 
 - Possible way to get `adb` [via XDA forums](https://xdaforums.com/t/generic-sl8541e-sc8541e-information-about-generic-chinese-smartwatches-with-the-spreadtrum-unisoc-soc.4654255/post-89358195) (have not tested yet myself)
 
