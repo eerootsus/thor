@@ -11,16 +11,18 @@ The aim of this project to collect and document information about Zeblaze Thor U
 ## What do I think about the watch?
 ### What I like
 - Provided charger cable includes data lines
-- Screen looks rather good and touch is quite responsive, even full keyboard is usable
+- Screen looks rather good and touch is quite responsive
+- Full keybaord is totally usable!
 - WiFi hotspot works and works very well
+- Battery lasts 72h+ with light usage (few calls, few messages, short bursts of hotspotting)
 
 ### What I do not like
 - 4G reception is poor
 - Band is a bit stiff and sometimes irritates the skin, but waiting for some Aliexpress options
 
 ### What I am unsure about?
-- Battery performance - seems fine, but time will tell
 - Does it have bloatware? And security issues?
+- Would like to explore running processes and reduce bloat.
   
 
 Stay tuned!
